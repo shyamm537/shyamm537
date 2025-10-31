@@ -1,4 +1,4 @@
-hi, I’m @shyamm537
+hi, I’m @shyamm537, studying data science and prepping for quant roles.
 
 <!---
 shyamm537/shyamm537 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
